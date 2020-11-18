@@ -49,7 +49,7 @@ section {
     background: none;
     border: none;
     color: rgb(224, 224, 224);
-    font: 20px;
+    font-size: 20px;
     background: rgb(45, 117, 96);
     border-radius: 3px;
     cursor: pointer;
@@ -85,7 +85,7 @@ div.fadeOut {
     pointer-events: none;
 }
 
-div .fadeIn {
+div.fadeIn {
     opacity: 1;
     pointer-events: all;
 }
